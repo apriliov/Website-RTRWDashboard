@@ -1,0 +1,473 @@
+[
+  {
+    "id": "000000000034",
+    "date": "2026-07-03",
+    "type": "out",
+    "category": "Keamanan",
+    "description": "Token listrik pos ronda",
+    "amount": 100000
+  },
+  {
+    "id": "00000000000d",
+    "date": "2026-07-06",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Budi Santoso (A-01)",
+    "amount": 25000,
+    "ref": "dues:000000000001:2026-07"
+  },
+  {
+    "id": "00000000000e",
+    "date": "2026-07-06",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Siti Rahayu (A-02)",
+    "amount": 25000,
+    "ref": "dues:000000000002:2026-07"
+  },
+  {
+    "id": "00000000000f",
+    "date": "2026-07-06",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Agus Wijaya (A-03)",
+    "amount": 25000,
+    "ref": "dues:000000000003:2026-07"
+  },
+  {
+    "id": "000000000010",
+    "date": "2026-07-07",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Hendra Gunawan (A-04)",
+    "amount": 25000,
+    "ref": "dues:000000000004:2026-07"
+  },
+  {
+    "id": "000000000011",
+    "date": "2026-07-07",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Dewi Lestari (B-01)",
+    "amount": 25000,
+    "ref": "dues:000000000005:2026-07"
+  },
+  {
+    "id": "000000000012",
+    "date": "2026-07-07",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Rudi Hartono (B-02)",
+    "amount": 25000,
+    "ref": "dues:000000000006:2026-07"
+  },
+  {
+    "id": "000000000013",
+    "date": "2026-07-08",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Slamet Riyadi (B-03)",
+    "amount": 25000,
+    "ref": "dues:000000000007:2026-07"
+  },
+  {
+    "id": "000000000014",
+    "date": "2026-07-08",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Ani Marlina (B-04)",
+    "amount": 25000,
+    "ref": "dues:000000000008:2026-07"
+  },
+  {
+    "id": "000000000015",
+    "date": "2026-07-08",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Joko Prasetyo (C-01)",
+    "amount": 25000,
+    "ref": "dues:000000000009:2026-07"
+  },
+  {
+    "id": "000000000016",
+    "date": "2026-07-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Rina Wulandari (C-02)",
+    "amount": 25000,
+    "ref": "dues:00000000000a:2026-07"
+  },
+  {
+    "id": "000000000017",
+    "date": "2026-07-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Dedi Kurniawan (C-03)",
+    "amount": 25000,
+    "ref": "dues:00000000000b:2026-07"
+  },
+  {
+    "id": "000000000018",
+    "date": "2026-07-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-07, Nur Aini (C-04)",
+    "amount": 25000,
+    "ref": "dues:00000000000c:2026-07"
+  },
+  {
+    "id": "000000000035",
+    "date": "2026-07-12",
+    "type": "out",
+    "category": "Kebersihan",
+    "description": "Honor petugas sampah bulan Juli",
+    "amount": 300000
+  },
+  {
+    "id": "000000000036",
+    "date": "2026-07-20",
+    "type": "in",
+    "category": "Donasi",
+    "description": "Sumbangan sukarela warga untuk kas lingkungan",
+    "amount": 350000
+  },
+  {
+    "id": "000000000037",
+    "date": "2026-07-27",
+    "type": "out",
+    "category": "Sosial",
+    "description": "Santunan warga yang sakit",
+    "amount": 250000
+  },
+  {
+    "id": "000000000038",
+    "date": "2026-08-02",
+    "type": "out",
+    "category": "Keamanan",
+    "description": "Token listrik pos ronda",
+    "amount": 100000
+  },
+  {
+    "id": "000000000019",
+    "date": "2026-08-08",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Budi Santoso (A-01)",
+    "amount": 25000,
+    "ref": "dues:000000000001:2026-08"
+  },
+  {
+    "id": "00000000001a",
+    "date": "2026-08-08",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Siti Rahayu (A-02)",
+    "amount": 25000,
+    "ref": "dues:000000000002:2026-08"
+  },
+  {
+    "id": "00000000001b",
+    "date": "2026-08-08",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Agus Wijaya (A-03)",
+    "amount": 25000,
+    "ref": "dues:000000000003:2026-08"
+  },
+  {
+    "id": "00000000001c",
+    "date": "2026-08-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Hendra Gunawan (A-04)",
+    "amount": 25000,
+    "ref": "dues:000000000004:2026-08"
+  },
+  {
+    "id": "00000000001d",
+    "date": "2026-08-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Dewi Lestari (B-01)",
+    "amount": 25000,
+    "ref": "dues:000000000005:2026-08"
+  },
+  {
+    "id": "00000000001e",
+    "date": "2026-08-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Rudi Hartono (B-02)",
+    "amount": 25000,
+    "ref": "dues:000000000006:2026-08"
+  },
+  {
+    "id": "00000000001f",
+    "date": "2026-08-10",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Slamet Riyadi (B-03)",
+    "amount": 25000,
+    "ref": "dues:000000000007:2026-08"
+  },
+  {
+    "id": "000000000020",
+    "date": "2026-08-10",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Ani Marlina (B-04)",
+    "amount": 25000,
+    "ref": "dues:000000000008:2026-08"
+  },
+  {
+    "id": "000000000021",
+    "date": "2026-08-10",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Joko Prasetyo (C-01)",
+    "amount": 25000,
+    "ref": "dues:000000000009:2026-08"
+  },
+  {
+    "id": "000000000039",
+    "date": "2026-08-10",
+    "type": "out",
+    "category": "Kebersihan",
+    "description": "Honor petugas sampah bulan Agustus",
+    "amount": 300000
+  },
+  {
+    "id": "000000000022",
+    "date": "2026-08-11",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Rina Wulandari (C-02)",
+    "amount": 25000,
+    "ref": "dues:00000000000a:2026-08"
+  },
+  {
+    "id": "000000000023",
+    "date": "2026-08-11",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-08, Dedi Kurniawan (C-03)",
+    "amount": 25000,
+    "ref": "dues:00000000000b:2026-08"
+  },
+  {
+    "id": "00000000003a",
+    "date": "2026-08-14",
+    "type": "out",
+    "category": "Kegiatan",
+    "description": "Lomba dan hadiah peringatan 17 Agustus",
+    "amount": 750000
+  },
+  {
+    "id": "00000000003b",
+    "date": "2026-08-16",
+    "type": "in",
+    "category": "Donasi",
+    "description": "Sumbangan warga untuk lomba 17 Agustus",
+    "amount": 900000
+  },
+  {
+    "id": "00000000003c",
+    "date": "2026-08-24",
+    "type": "out",
+    "category": "Perlengkapan",
+    "description": "Pembelian 4 senter dan baterai ronda",
+    "amount": 185000
+  },
+  {
+    "id": "00000000003d",
+    "date": "2026-09-03",
+    "type": "out",
+    "category": "Keamanan",
+    "description": "Token listrik pos ronda",
+    "amount": 100000
+  },
+  {
+    "id": "000000000024",
+    "date": "2026-09-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Budi Santoso (A-01)",
+    "amount": 25000,
+    "ref": "dues:000000000001:2026-09"
+  },
+  {
+    "id": "000000000025",
+    "date": "2026-09-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Siti Rahayu (A-02)",
+    "amount": 25000,
+    "ref": "dues:000000000002:2026-09"
+  },
+  {
+    "id": "000000000026",
+    "date": "2026-09-09",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Agus Wijaya (A-03)",
+    "amount": 25000,
+    "ref": "dues:000000000003:2026-09"
+  },
+  {
+    "id": "000000000027",
+    "date": "2026-09-10",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Hendra Gunawan (A-04)",
+    "amount": 25000,
+    "ref": "dues:000000000004:2026-09"
+  },
+  {
+    "id": "000000000028",
+    "date": "2026-09-10",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Dewi Lestari (B-01)",
+    "amount": 25000,
+    "ref": "dues:000000000005:2026-09"
+  },
+  {
+    "id": "000000000029",
+    "date": "2026-09-10",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Rudi Hartono (B-02)",
+    "amount": 25000,
+    "ref": "dues:000000000006:2026-09"
+  },
+  {
+    "id": "00000000002a",
+    "date": "2026-09-11",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Slamet Riyadi (B-03)",
+    "amount": 25000,
+    "ref": "dues:000000000007:2026-09"
+  },
+  {
+    "id": "00000000002b",
+    "date": "2026-09-11",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Ani Marlina (B-04)",
+    "amount": 25000,
+    "ref": "dues:000000000008:2026-09"
+  },
+  {
+    "id": "00000000002c",
+    "date": "2026-09-11",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Joko Prasetyo (C-01)",
+    "amount": 25000,
+    "ref": "dues:000000000009:2026-09"
+  },
+  {
+    "id": "00000000003e",
+    "date": "2026-09-11",
+    "type": "out",
+    "category": "Kebersihan",
+    "description": "Honor petugas sampah bulan September",
+    "amount": 300000
+  },
+  {
+    "id": "00000000002d",
+    "date": "2026-09-12",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-09, Rina Wulandari (C-02)",
+    "amount": 25000,
+    "ref": "dues:00000000000a:2026-09"
+  },
+  {
+    "id": "00000000003f",
+    "date": "2026-09-19",
+    "type": "out",
+    "category": "Perlengkapan",
+    "description": "Cat dan perbaikan pagar pos ronda",
+    "amount": 260000
+  },
+  {
+    "id": "000000000040",
+    "date": "2026-09-26",
+    "type": "in",
+    "category": "Sewa",
+    "description": "Sewa tenda dan kursi oleh warga luar RT",
+    "amount": 150000
+  },
+  {
+    "id": "000000000041",
+    "date": "2026-10-03",
+    "type": "out",
+    "category": "Keamanan",
+    "description": "Token listrik pos ronda",
+    "amount": 100000
+  },
+  {
+    "id": "00000000002e",
+    "date": "2026-10-05",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-10, Budi Santoso (A-01)",
+    "amount": 25000,
+    "ref": "dues:000000000001:2026-10"
+  },
+  {
+    "id": "00000000002f",
+    "date": "2026-10-05",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-10, Siti Rahayu (A-02)",
+    "amount": 25000,
+    "ref": "dues:000000000002:2026-10"
+  },
+  {
+    "id": "000000000030",
+    "date": "2026-10-05",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-10, Agus Wijaya (A-03)",
+    "amount": 25000,
+    "ref": "dues:000000000003:2026-10"
+  },
+  {
+    "id": "000000000031",
+    "date": "2026-10-06",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-10, Hendra Gunawan (A-04)",
+    "amount": 25000,
+    "ref": "dues:000000000004:2026-10"
+  },
+  {
+    "id": "000000000032",
+    "date": "2026-10-06",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-10, Dewi Lestari (B-01)",
+    "amount": 25000,
+    "ref": "dues:000000000005:2026-10"
+  },
+  {
+    "id": "000000000033",
+    "date": "2026-10-06",
+    "type": "in",
+    "category": "Iuran",
+    "description": "Iuran Kebersihan dan Keamanan 2026-10, Rudi Hartono (B-02)",
+    "amount": 25000,
+    "ref": "dues:000000000006:2026-10"
+  },
+  {
+    "id": "000000000042",
+    "date": "2026-10-07",
+    "type": "out",
+    "category": "Kebersihan",
+    "description": "Pembelian kantong sampah dan sapu",
+    "amount": 85000
+  }
+]

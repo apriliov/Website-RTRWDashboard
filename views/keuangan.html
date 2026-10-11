@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Keuangan Kas | {{SITE}}</title>
+  <meta name="description" content="Pemasukan dan pengeluaran kas dicatat terbuka agar semua warga bisa memantau.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/theme.js"></script>
+</head>
+<body data-page="keuangan">
+<!--NAVBAR-->
+<main>
+<div class="page-head"><div class="container"><h1>Keuangan Kas</h1><p>Pemasukan dan pengeluaran kas dicatat terbuka agar semua warga bisa memantau.</p></div></div>
+<div class="container pull-up">
+  <div class="grid grid-4" id="fin-stats"></div>
+</div>
+<section class="container section">
+  <div class="card"><div class="section-title"><h2>Enam bulan terakhir</h2></div><div id="fin-chart"></div>
+    <div class="legend"><span><i class="in"></i>Pemasukan</span><span><i class="out"></i>Pengeluaran</span></div></div>
+</section>
+<section class="container section print-area" id="fin-report">
+  <div class="section-title"><h2 id="fin-title">Rincian transaksi</h2></div>
+  <div class="toolbar no-print" id="fin-toolbar"></div>
+  <div class="table-wrap"><table><thead><tr><th>Tanggal</th><th>Keterangan</th><th>Kategori</th><th class="num">Pemasukan</th><th class="num">Pengeluaran</th></tr></thead><tbody id="fin-body"></tbody><tfoot id="fin-foot"></tfoot></table></div>
+</section>
+</main>
+<!--FOOTER-->
+<script src="/js/app.js" defer></script>
+</body>
+</html>

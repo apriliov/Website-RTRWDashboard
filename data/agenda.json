@@ -1,0 +1,50 @@
+[
+  {
+    "id": "00000000004f",
+    "title": "Senam Sehat Bersama",
+    "date": "2026-10-11",
+    "time": "06:30",
+    "place": "Lapangan RT",
+    "description": "Senam pagi untuk semua usia. Membawa botol minum sendiri."
+  },
+  {
+    "id": "000000000050",
+    "title": "Posyandu Balita dan Lansia",
+    "date": "2026-10-14",
+    "time": "09:00",
+    "place": "Rumah Ibu Siti Rahayu (A-02)",
+    "description": "Penimbangan, imunisasi, dan cek tekanan darah."
+  },
+  {
+    "id": "000000000051",
+    "title": "Kerja Bakti Lingkungan",
+    "date": "2026-10-18",
+    "time": "07:00",
+    "place": "Pos Ronda Utama",
+    "description": "Membersihkan selokan dan area pos ronda. Membawa alat kebersihan."
+  },
+  {
+    "id": "000000000052",
+    "title": "Rapat Warga Bulanan",
+    "date": "2026-10-25",
+    "time": "19:30",
+    "place": "Balai Warga",
+    "description": "Laporan kas, evaluasi ronda, dan usulan warga."
+  },
+  {
+    "id": "000000000053",
+    "title": "Pengajian dan Santunan Anak Yatim",
+    "date": "2026-11-01",
+    "time": "15:30",
+    "place": "Balai Warga",
+    "description": "Terbuka untuk seluruh warga."
+  },
+  {
+    "id": "000000000054",
+    "title": "Rapat Warga Bulan September",
+    "date": "2026-09-27",
+    "time": "19:30",
+    "place": "Balai Warga",
+    "description": "Rapat rutin (sudah dilaksanakan)."
+  }
+]

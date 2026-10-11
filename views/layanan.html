@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Layanan Warga | {{SITE}}</title>
+  <meta name="description" content="Kontak penting, inventaris, surat pengantar, dan kotak aspirasi.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/theme.js"></script>
+</head>
+<body data-page="layanan">
+<!--NAVBAR-->
+<main>
+<div class="page-head"><div class="container"><h1>Layanan Warga</h1><p>Kontak penting, inventaris, surat pengantar, dan kotak aspirasi.</p></div></div>
+<section class="container section" id="kontak">
+  <div class="section-title"><h2>Kontak penting</h2></div>
+  <div class="grid grid-3" id="contacts"><div class="loading">Memuat...</div></div>
+</section>
+<section class="container section" id="inventaris">
+  <div class="section-title"><h2>Inventaris RT</h2></div>
+  <div class="table-wrap"><table><thead><tr><th>Barang</th><th class="num">Jumlah</th><th>Kondisi</th><th>Catatan</th></tr></thead><tbody id="inv-body"></tbody></table></div>
+</section>
+<section class="container section" id="surat">
+  <div class="section-title"><h2>Surat pengantar RT</h2></div>
+  <div class="grid grid-2">
+    <form class="card no-print" id="letter-form" autocomplete="off">
+      <p class="muted">Isi data lalu cetak. Data hanya diproses di perangkat kamu dan tidak disimpan. Surat tetap perlu ditandatangani Ketua RT.</p>
+      <div class="field"><label for="l-name">Nama lengkap</label><input id="l-name" required maxlength="80"></div>
+      <div class="field"><label for="l-nik">NIK (opsional)</label><input id="l-nik" maxlength="20" inputmode="numeric"></div>
+      <div class="field"><label for="l-ttl">Tempat, tanggal lahir</label><input id="l-ttl" maxlength="80" placeholder="Kota, 01 Januari 1990"></div>
+      <div class="field"><label for="l-job">Pekerjaan</label><input id="l-job" maxlength="60"></div>
+      <div class="field"><label for="l-addr">Alamat</label><input id="l-addr" maxlength="120" placeholder="Blok / nomor rumah"></div>
+      <div class="field"><label for="l-need">Keperluan</label><textarea id="l-need" required maxlength="300" placeholder="Contoh: pengurusan KTP baru"></textarea></div>
+      <button class="btn" type="submit">Buat surat</button>
+    </form>
+    <div>
+      <div class="letter print-area" id="letter"><p class="muted center">Pratinjau surat akan muncul di sini.</p></div>
+      <div class="toolbar no-print mt-sm"><button class="btn btn-ghost" id="letter-print" type="button" disabled>Cetak surat</button></div>
+    </div>
+  </div>
+</section>
+<section class="container section" id="aspirasi">
+  <div class="section-title"><h2>Kotak aspirasi</h2></div>
+  <form class="card narrow" id="asp-form" autocomplete="off">
+    <p class="muted">Sampaikan saran, keluhan, atau laporan kepada pengurus. Nama boleh dikosongkan.</p>
+    <div id="asp-msg"></div>
+    <div class="field"><label for="a-name">Nama (opsional)</label><input id="a-name" maxlength="60"></div>
+    <div class="field hp"><label for="a-web">Website</label><input id="a-web" tabindex="-1" autocomplete="off"></div>
+    <div class="field"><label for="a-text">Pesan</label><textarea id="a-text" required minlength="10" maxlength="1000"></textarea></div>
+    <button class="btn" type="submit">Kirim aspirasi</button>
+  </form>
+</section>
+</main>
+<!--FOOTER-->
+<script src="/js/app.js" defer></script>
+</body>
+</html>

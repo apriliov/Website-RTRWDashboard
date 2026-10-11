@@ -1,0 +1,99 @@
+[
+  {
+    "id": "000000000043",
+    "day": "Senin",
+    "group": "Kelompok A",
+    "members": [
+      "Budi Santoso",
+      "Hendra Gunawan",
+      "Joko Prasetyo",
+      "Dedi Kurniawan"
+    ],
+    "post": "Pos Ronda Utama",
+    "time": "22:00 - 04:00",
+    "note": "Wajib mengisi buku tamu dan melapor ke Ketua RT bila ada kejadian."
+  },
+  {
+    "id": "000000000044",
+    "day": "Selasa",
+    "group": "Kelompok B",
+    "members": [
+      "Agus Wijaya",
+      "Slamet Riyadi",
+      "Rudi Hartono"
+    ],
+    "post": "Pos Ronda Utama",
+    "time": "22:00 - 04:00",
+    "note": ""
+  },
+  {
+    "id": "000000000045",
+    "day": "Rabu",
+    "group": "Kelompok C",
+    "members": [
+      "Siti Rahayu (konsumsi)",
+      "Nur Aini (konsumsi)",
+      "Taufik",
+      "Bayu"
+    ],
+    "post": "Pos Ronda Utama",
+    "time": "22:00 - 04:00",
+    "note": ""
+  },
+  {
+    "id": "000000000046",
+    "day": "Kamis",
+    "group": "Kelompok D",
+    "members": [
+      "Dewi Lestari (konsumsi)",
+      "Eko Saputra",
+      "Fajar Nugroho",
+      "Imam"
+    ],
+    "post": "Pos Ronda Utama",
+    "time": "22:00 - 04:00",
+    "note": ""
+  },
+  {
+    "id": "000000000047",
+    "day": "Jumat",
+    "group": "Kelompok E",
+    "members": [
+      "Ani Marlina (konsumsi)",
+      "Gilang",
+      "Hadi Susanto",
+      "Yusuf"
+    ],
+    "post": "Pos Ronda Utama",
+    "time": "22:00 - 04:00",
+    "note": ""
+  },
+  {
+    "id": "000000000048",
+    "day": "Sabtu",
+    "group": "Kelompok F",
+    "members": [
+      "Rina Wulandari (konsumsi)",
+      "Dimas",
+      "Anton",
+      "Wahyu"
+    ],
+    "post": "Pos Ronda Utama",
+    "time": "22:00 - 04:00",
+    "note": ""
+  },
+  {
+    "id": "000000000049",
+    "day": "Minggu",
+    "group": "Kelompok G",
+    "members": [
+      "Bambang",
+      "Cahyo",
+      "Darmawan",
+      "Rizky"
+    ],
+    "post": "Pos Ronda Utama",
+    "time": "22:00 - 04:00",
+    "note": ""
+  }
+]

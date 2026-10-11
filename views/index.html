@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Beranda | {{SITE}}</title>
+  <meta name="description" content="Informasi, keuangan, jadwal ronda, dan pengumuman warga.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/theme.js"></script>
+</head>
+<body data-page="home">
+<!--NAVBAR-->
+<main>
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div>
+      <span class="hero-badge" id="hero-area">Sistem Informasi Warga</span>
+      <h1 id="hero-title">RT / RW</h1>
+      <p id="hero-tagline">Informasi dan layanan warga dalam satu tempat.</p>
+      <div class="hero-actions">
+        <a class="btn btn-light" href="/keuangan">Lihat Keuangan Kas</a>
+        <a class="btn btn-outline-light" href="/ronda">Jadwal Ronda</a>
+      </div>
+    </div>
+    <div class="tonight" id="tonight"><h3>Ronda malam ini</h3><div class="big">Memuat...</div></div>
+  </div>
+</section>
+<section class="container pull-up">
+  <div class="grid grid-4" id="home-stats"></div>
+</section>
+<section class="container section">
+  <div class="grid grid-2">
+    <div><div class="section-title"><h2>Pengumuman terbaru</h2><a href="/pengumuman">Semua</a></div><div class="list" id="home-ann"><div class="loading">Memuat...</div></div></div>
+    <div><div class="section-title"><h2>Agenda terdekat</h2><a href="/agenda">Semua</a></div><div class="list" id="home-agenda"><div class="loading">Memuat...</div></div></div>
+  </div>
+</section>
+<section class="container section">
+  <div class="section-title"><h2>Artikel terbaru</h2><a href="/artikel">Semua artikel</a></div>
+  <div class="grid grid-3" id="home-art"><div class="loading">Memuat...</div></div>
+</section>
+<section class="container section">
+  <div class="section-title"><h2>Nomor darurat</h2><a href="/layanan#kontak">Semua kontak</a></div>
+  <div class="grid grid-4" id="home-emergency"></div>
+</section>
+</main>
+<!--FOOTER-->
+<script src="/js/app.js" defer></script>
+</body>
+</html>

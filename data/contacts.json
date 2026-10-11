@@ -1,0 +1,86 @@
+[
+  {
+    "id": "000000000055",
+    "name": "Budi Santoso",
+    "role": "Ketua RT 05",
+    "phone": "081200000001",
+    "group": "Pengurus"
+  },
+  {
+    "id": "000000000056",
+    "name": "Siti Rahayu",
+    "role": "Sekretaris",
+    "phone": "081200000002",
+    "group": "Pengurus"
+  },
+  {
+    "id": "000000000057",
+    "name": "Agus Wijaya",
+    "role": "Bendahara",
+    "phone": "081200000003",
+    "group": "Pengurus"
+  },
+  {
+    "id": "000000000058",
+    "name": "Hendra Gunawan",
+    "role": "Ketua RW 03",
+    "phone": "081200000004",
+    "group": "Pengurus"
+  },
+  {
+    "id": "000000000059",
+    "name": "Rudi Hartono",
+    "role": "Seksi Keamanan",
+    "phone": "081200000005",
+    "group": "Pengurus"
+  },
+  {
+    "id": "00000000005a",
+    "name": "Polisi",
+    "role": "Kepolisian",
+    "phone": "110",
+    "group": "Darurat"
+  },
+  {
+    "id": "00000000005b",
+    "name": "Pemadam Kebakaran",
+    "role": "Damkar",
+    "phone": "113",
+    "group": "Darurat"
+  },
+  {
+    "id": "00000000005c",
+    "name": "Ambulans",
+    "role": "Gawat darurat medis",
+    "phone": "118",
+    "group": "Darurat"
+  },
+  {
+    "id": "00000000005d",
+    "name": "Basarnas",
+    "role": "Pencarian dan pertolongan",
+    "phone": "115",
+    "group": "Darurat"
+  },
+  {
+    "id": "00000000005e",
+    "name": "Puskesmas Sukamaju",
+    "role": "Layanan kesehatan",
+    "phone": "081200000010",
+    "group": "Layanan"
+  },
+  {
+    "id": "00000000005f",
+    "name": "Kantor Kelurahan Sukamaju",
+    "role": "Layanan administrasi",
+    "phone": "081200000011",
+    "group": "Layanan"
+  },
+  {
+    "id": "000000000060",
+    "name": "PLN",
+    "role": "Gangguan listrik",
+    "phone": "123",
+    "group": "Layanan"
+  }
+]

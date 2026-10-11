@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Status Iuran | {{SITE}}</title>
+  <meta name="description" content="Pantau iuran bulanan warga per bulan.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/theme.js"></script>
+</head>
+<body data-page="iuran">
+<!--NAVBAR-->
+<main>
+<div class="page-head"><div class="container"><h1>Status Iuran</h1><p>Pantau iuran bulanan warga per bulan.</p></div></div>
+<section class="container section">
+  <div class="toolbar"><label for="due-month" class="muted">Bulan</label><input type="month" id="due-month"></div>
+  <div class="grid grid-3" id="due-stats"></div>
+  <div id="due-list" class="mt"></div>
+</section>
+</main>
+<!--FOOTER-->
+<script src="/js/app.js" defer></script>
+</body>
+</html>

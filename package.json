@@ -1,0 +1,15 @@
+{
+  "name": "rtrw-dashboard",
+  "version": "1.0.0",
+  "description": "RT/RW neighborhood dashboard: cash book, patrol schedule, announcements, articles, dues and more. No database, no dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seal": "node tools/seal.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Apriliov",
+  "license": "SEE LICENSE IN LICENSE"
+}

@@ -1,0 +1,8 @@
+node_modules/
+.env
+data/secret.json
+data/auth.json
+data/complaints.json
+public/uploads/*
+!public/uploads/.gitkeep
+*.tmp

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "000000000061",
+    "name": "Tenda 3x3 m",
+    "qty": 2,
+    "condition": "Baik",
+    "note": "Pinjam melalui Bendahara, gratis untuk warga"
+  },
+  {
+    "id": "000000000062",
+    "name": "Kursi plastik",
+    "qty": 100,
+    "condition": "Baik",
+    "note": "Hitung dan kembalikan lengkap"
+  },
+  {
+    "id": "000000000063",
+    "name": "Pengeras suara portabel",
+    "qty": 1,
+    "condition": "Cukup",
+    "note": "Pinjam melalui Sekretaris"
+  },
+  {
+    "id": "000000000064",
+    "name": "Tikar",
+    "qty": 10,
+    "condition": "Baik",
+    "note": ""
+  },
+  {
+    "id": "000000000065",
+    "name": "Senter ronda",
+    "qty": 6,
+    "condition": "Baik",
+    "note": "Disimpan di pos ronda"
+  },
+  {
+    "id": "000000000066",
+    "name": "Gerobak sampah",
+    "qty": 2,
+    "condition": "Cukup",
+    "note": "Untuk kerja bakti"
+  }
+]
