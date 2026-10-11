@@ -225,3 +225,8 @@ tfoot td { font-weight: 800; background: var(--surface-2); }
 .notfound { text-align: center; padding: 90px 20px; }
 .notfound h2 { margin-bottom: 10px; }
 .nf-code { font-size: clamp(4rem, 14vw, 8rem); color: var(--primary); }
+
+/* tombol Admin di navbar */
+.nav-links a.nav-admin { margin-left: 6px; border: 1px solid var(--primary); color: var(--primary); font-weight: 700; }
+.nav-links a.nav-admin:hover { background: var(--primary); color: var(--on-primary); }
+@media (max-width: 960px) { .nav-links a.nav-admin { margin: 6px 0 0; text-align: center; } }
