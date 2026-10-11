@@ -1,3 +1,5 @@
+<p align="center"> <img src="./https-wargaku.namaiki.xyz-.png" alt="Preview Website" width="100%"> </p>
+
 # RT/RW Dashboard
 
 Website dashboard untuk RT/RW: kas pemasukan dan pengeluaran, jadwal ronda, pengumuman, artikel, agenda, iuran warga, kontak penting, dan kotak aspirasi. **Tanpa database dan tanpa dependensi**: semua data disimpan sebagai file JSON di folder `data/`, dan diedit lewat panel admin di folder `admin/`.
